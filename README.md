@@ -15,19 +15,21 @@
 * Détécter la lumineusité d'une pièce
 
 ## Matériel
-• ESP32
-• Relais
-• Prise électrique
-• Cable électrique
-• Rallonge
-• Capteur de luminosité
-• Capteur de température
-• Lampe
+* ESP32
+* Relais
+* Prise électrique
+* Cable électrique
+* Rallonge
+* Capteur de luminosité
+* Capteur de température
+* Lampe
 
-## Architecture
+## Montage
 <p align="center">
-	<img width="800" height="auto" src="https://user-images.githubusercontent.com/48489202/143318755-401bda75-253e-47dd-8f10-7673c5089230.png">
+	<img src="https://user-images.githubusercontent.com/48489202/143719614-2a8bb838-9558-4553-87a1-6658188d4261.PNG">
 </p>
+
+## Schéma du montage
 
 ## Captures d'écran
 <p align="center">
