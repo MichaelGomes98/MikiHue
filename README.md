@@ -3,18 +3,26 @@
   <img src="https://user-images.githubusercontent.com/48489202/143305206-04ef9213-d99b-4e39-8c49-5fff5dac33b0.png">
 </p>
 <p align="justify">
-<b>MikiHue</b> est un projet IOT qui a pour but de domotiser une prise électrique de 220v. 
+<b>MikiHue</b> est un projet IOT qui a pour but principal de domotiser une prise électrique de 220 volts qui sera ainsi contrôlée via une application web. Des capteurs de température et de luminosité ont également été configuré afin d'ajouté des informations sur l'application. 
 </p>
 
 ## Technologies
 * Python
 	
 ## Fonctionnalités
-* Localisation des stades
-* Recherche de stades selon différents critères
-* Ajout, modification et suppresion de stades
-* Prendre des photos
-* Consultation des photos
+* Contrôler à distance une prise électrique de 220v
+* Consulter a température en direct d'une pièce
+* Détécter la lumineusité d'une pièce
+
+## Matériel
+• ESP32
+• Relais
+• Prise électrique
+• Cable électrique
+• Rallonge
+• Capteur de luminosité
+• Capteur de température
+• Lampe
 
 ## Architecture
 <p align="center">
