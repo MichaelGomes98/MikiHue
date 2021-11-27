@@ -30,7 +30,14 @@
 </p>
 
 ## Schéma du montage
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/48489202/143719694-cabeae36-a0cb-4e77-b49b-f6b0ddd74430.PNG">
+</p>
 
+## Cartographie de l'ESP32
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/48489202/143719693-8269aa86-eafd-44f7-a2c7-c26fdd7fd28e.PNG">
+</p>
 ## Captures d'écran
 <p align="center">
 	<img width="150" height="300" src="https://user-images.githubusercontent.com/48489202/143312125-cde21f18-24c4-447e-9748-e14961e4fdb0.jpg">
